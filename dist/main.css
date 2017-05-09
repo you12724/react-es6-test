@@ -1,0 +1,6 @@
+div.contents {
+  margin-top: 30px; }
+  div.contents div.menus {
+    padding: 20px; }
+    div.contents div.menus label {
+      background-color: #45cc77; }
