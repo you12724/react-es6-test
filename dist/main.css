@@ -3,4 +3,7 @@ div.contents {
   div.contents div.menus {
     padding: 20px; }
     div.contents div.menus label {
-      background-color: #45cc77; }
+      background-color: red; }
+.test {
+  color: red;
+  background-color: white; }
